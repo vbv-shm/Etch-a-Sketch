@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(177, 132, 19);
+}
+div{
+    margin: 0px;
+}
+div:hover{
+    background-color: aqua;
+}
+#side{
+    margin-left: 600px;
+    margin-bottom: 50px;
+}
+h1{
+    margin-left: 500px;
+}
